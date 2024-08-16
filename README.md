@@ -4,8 +4,8 @@ This repository contains a Go-based tool designed to apply control flow flatteni
 ## Features
 Control Flow Flattening: Transforms PowerShell scripts to obscure their execution flow by introducing complex conditional branches and random variable names.
 Simple and Effective: Provides a straightforward implementation to showcase the control flow flattening technique without additional obfuscation methods.
-Usage
-Build the Executable:
+## Usage
+## Build the Executable:
 ```sh
 go build control_flow_flattening.go
 ```
